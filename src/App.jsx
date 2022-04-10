@@ -12,6 +12,7 @@ function App() {
   const [menuOpen, setMenuOpen] = useState(false);
   return (
     <div className="app">
+      <link rel="icon" type="image/x-icon" href="./assets/logo.png"></link>
       <Topbar menuOpen={menuOpen} setMenuOpen={setMenuOpen} />
       <Menu menuOpen={menuOpen} setMenuOpen={setMenuOpen} />
       <div className="sections">

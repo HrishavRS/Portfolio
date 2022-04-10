@@ -26,8 +26,8 @@ export default function Testimonials() {
     {
       id: 4,
       name: "Gagan Adhikari",
-      title: "infi",
-      desc: "Hrisav is a good team mate, easy to work with and a good learner.",
+      title: "Asterdio Inc",
+      desc: "Hrishav is a good team mate, easy to work with and a good learner.",
       img: "assets/People/gagan.jpg",
     },
   ];
